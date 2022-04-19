@@ -8,6 +8,7 @@
 日本語化テクスチャ「E2JAP」(NihoSta)
 
 https://twitter.com/NihoSta
+
 https://github.com/E2JAP
 ##
 利用規約は告知なく変更される場合があります。
